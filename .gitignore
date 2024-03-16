@@ -1,0 +1,8 @@
+# Mac OS
+*.DS_Store
+*~
+*.sw[po]
+.*.sw[po]
+
+tmp
+
